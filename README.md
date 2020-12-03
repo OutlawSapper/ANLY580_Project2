@@ -32,7 +32,7 @@ gitHub Repo: https://github.com/OutlawSapper/ANLY580_Project2/tree/master<br>
     <td>Directory containing the background / literature review papers for this project</td>
   </tr>
    <tr>
-    <td>ANLY580_Project2_Proposal2.docx</td>
+    <td>ANLY580_Project2_Proposal.docx</td>
     <td>The original project proposal, as submitted in October 2020</td>
  </tr>
   <tr>
@@ -50,10 +50,14 @@ gitHub Repo: https://github.com/OutlawSapper/ANLY580_Project2/tree/master<br>
     <tr>
     <td>Project2 EDA.ipynb</td>
     <td>TThe original script used to generate summary statistics about the dataset</td>
-  </tr> 
+  </tr>
   <tr>
-    <td>TopicModelling.ipynb</td>
+    <td>TopicModeling.ipynb</td>
     <td>The complete script used to generate all topic models--contains all original code and notes for the model generation including the code for multiple unsuccessful models</td>
+  </tr>
+  <tr>
+    <td>Poster.pptx</td>
+    <td>The PowerPoint poster used in the presentation on December 1st.</td>
   </tr>
     <tr>
     <td>finalModelDict.pkl</td>
@@ -62,4 +66,4 @@ gitHub Repo: https://github.com/OutlawSapper/ANLY580_Project2/tree/master<br>
     <tr>
     <td>kilgariffResults.pkl</td>
     <td>A pickled file containing the results of the Kilgariff Chi-Squared Method analysis (needed for the AuthorshipDetection.ipynb file)</td>
-</table> 
+</table>
