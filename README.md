@@ -45,7 +45,7 @@ gitHub Repo: https://github.com/OutlawSapper/ANLY580_Project2/tree/master<br>
   </tr>
     <tr>
     <td>FinalReport.ipynb</td>
-    <td>The final, consolidated report for this project containing a summary of all analysis conducted (STILL A WORK IN PROGRESS)</td>
+    <td>The final, consolidated report for this project containing a summary of all analysis conducted</td>
   </tr>
     <tr>
     <td>Project2 EDA.ipynb</td>
